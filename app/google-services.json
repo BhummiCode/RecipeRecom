@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559903279826",
+    "project_id": "reciperecom",
+    "storage_bucket": "reciperecom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559903279826:android:9695c11c19e716203d7b0b",
+        "android_client_info": {
+          "package_name": "com.example.reciperecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559903279826-pbngp9ab4oqhi7a1h88l9a7olbnnl6qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reciperecom",
+            "certificate_hash": "93a04eb932dd7bf77ff0801f819ab91d2f00cbf7"
+          }
+        },
+        {
+          "client_id": "559903279826-eti3l0eedq69tdcgvqsb92fnq7cjcggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutKTCFnb9tntCwNddeNP9f8qTWA4pzDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559903279826-eti3l0eedq69tdcgvqsb92fnq7cjcggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
